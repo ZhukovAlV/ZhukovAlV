@@ -30,7 +30,7 @@
 |----|------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | 1. | [Сайт для обучения детей Java](https://github.com/ZhukovAlV/javakids)                                | Spring Boot, Spring Security, Spring JPA, Thymeleaf |
 | 2. | [Leaflet for Java](https://github.com/ZhukovAlV/leafletMapCore)                                      | Leaflet                                          |
-| 3. | [Телеметрия](https://github.com/ZhukovAlV/telemetrya-system)                                         | JavaFX                                              |
+| 3. | [JavaFX with FXML](https://github.com/ZhukovAlV/telemetrya-system)                                         | JavaFX                                              |
 | 4. | [Табель](https://github.com/ZhukovAlV/timesheetwithcuba)                                             | Cuba                                                |
 | 5. | [Концерт](https://github.com/ZhukovAlV/concert/tree/master)                                          | MyBatis, Mysql, Junit                               |
 | 6. | [Мегамаркет](https://github.com/ZhukovAlV/megamarket/tree/master/src/main/java/ru/yandex/megamarket) | Spring Boot, Postgresql                             |

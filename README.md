@@ -28,7 +28,7 @@
 
 | #  | Проекты                                                                                              | Технологии                                          |
 |----|------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 1. | [Сайт для обучения детей Java](https://github.com/ZhukovAlV/javakids)                                | Spring Boot, Spring Security, Spring JPA, Thymeleaf |
+| 1. | [Сайт для обучения детей Java](https://github.com/ZhukovAlV/lms)                                | Spring Boot, Spring Security, Spring JPA, Thymeleaf |
 | 2. | [Leaflet for Java](https://github.com/ZhukovAlV/leafletMapCore)                                      | Leaflet                                          |
 | 3. | [JavaFX with FXML](https://github.com/ZhukovAlV/telemetrya-system)                                         | JavaFX                                              |
 | 4. | [Табель](https://github.com/ZhukovAlV/timesheetwithcuba)                                             | Cuba                                                |

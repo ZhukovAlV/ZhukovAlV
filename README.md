@@ -29,12 +29,11 @@
 | #  | Проекты                                                                                              | Технологии                                          |
 |----|------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
 | 1. | [Сайт для обучения детей Java](https://github.com/ZhukovAlV/lms)                                     | Spring Boot, Spring Security, Spring JPA, Thymeleaf |
-| 2. | [Leaflet Wrapper for Java](https://github.com/ZhukovAlV/leafletMapCore)                              | Leaflet                                             |
-| 3. | [JavaFX with FXML](https://github.com/ZhukovAlV/javaFXApplicationWithHibernate)                                   | JavaFX, Hibernate                                            |
-| 4. | [Табель](https://github.com/ZhukovAlV/timesheetwithcuba)                                             | Cuba                                                |
-| 5. | [Концерт](https://github.com/ZhukovAlV/concert/tree/master)                                          | MyBatis, Mysql, Junit                               |
-| 6. | [Мегамаркет](https://github.com/ZhukovAlV/megamarket/tree/master/src/main/java/ru/yandex/megamarket) | Spring Boot, Postgresql                             |
-| 7. | [New Year Game](https://github.com/ZhukovAlV/Tritec-newYearsRain)                                    | Swing                                               |
+| 2. | [JavaFX with FXML](https://github.com/ZhukovAlV/javaFXApplicationWithHibernate)                                   | JavaFX, Hibernate                                            |
+| 3. | [Табель](https://github.com/ZhukovAlV/timesheetwithcuba)                                             | Cuba                                                |
+| 4. | [Концерт](https://github.com/ZhukovAlV/concert/tree/master)                                          | MyBatis, Mysql, Junit                               |
+| 5. | [Мегамаркет](https://github.com/ZhukovAlV/megamarket/tree/master/src/main/java/ru/yandex/megamarket) | Spring Boot, Postgresql                             |
+| 6. | [New Year Game](https://github.com/ZhukovAlV/Tritec-newYearsRain)                                    | Swing                                               |
 
 #### Курсы
 * Тамтек. Школа разработчиков "ТамТэк": Программа Перезапуск, 2020-2021
